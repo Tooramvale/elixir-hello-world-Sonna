@@ -51,11 +51,8 @@ the operating system (please NO Microsoft Word documents).
 ### Recommend sources:
 - [Elixir](http://elixir-lang.org/)
 
-- [Hello world/Text - Rosetta Code]
-  (https://www.rosettacode.org/wiki/Hello_world/Text)
+- [Hello world/Text - Rosetta Code](https://www.rosettacode.org/wiki/Hello_world/Text)
 
-- [Introduction - Elixir]
-  (http://elixir-lang.org/getting-started/introduction.html)
+- [Introduction - Elixir](http://elixir-lang.org/getting-started/introduction.html)
 
-- [Elixir (programming language) - Wikipedia]
-  (https://en.wikipedia.org/wiki/Elixir_(programming_language))
+- [Elixir (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Elixir_(programming_language))
