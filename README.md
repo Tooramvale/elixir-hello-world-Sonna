@@ -214,7 +214,7 @@ parameters for a function/method; but more akin to a `switch` fall-through or a
 multi-part `if` statement that requires all or most conditions to apply before
 executing a given method, but somewhat simplifying that functionality by
 spreading it across multiple function definitions that will only act when it
-meets all the right conditions (otherwise none of the functions are called).
+meets all the right conditions (otherwise none of the functions are called)._
 
 #### Docker Dockerfile explanation
 
