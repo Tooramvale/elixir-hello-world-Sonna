@@ -7,14 +7,20 @@ Spike Outcomes
 **Author:** Alex Sonneveld
 
 ## Goals / Deliverables:
-_#### Summarise from the spike plan goal_
-_#### Besides this report, what else was created ie UML, code, reports_
-- Code see /spikes/spike04/
+
+The Goal of this Spike is install Elixir on the current workstation and to run a
+simple "Hello World" program/script to demonstrate that the programming language
+Elixir has been installed successfully for future development.
+
+Included deliverables:
+
+- Code see `hello_world.exs`
 - Short Report titled "'Hello World' in Elixir"
-- ...
 
 ## Technologies, Tools, and Resources used:
-_#### List of information needed by someone trying to reproduce this work_
+
+List of tools to produce this work:
+
 - Elixir
 - Internet Browser (Google Chrome)
 - Git
